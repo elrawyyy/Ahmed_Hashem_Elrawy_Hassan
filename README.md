@@ -45,7 +45,7 @@ Setup Instructions
 
 Clone the repository
 
-git clone https://github.com/your-username/flutter_shopping_app.git
+git clone [https://github.com/your-username/flutter_shopping_app.git](https://github.com/elrawyyy/Ahmed_Hashem_Elrawy_Hassan.git)
 cd flutter_shopping_app
 
 
